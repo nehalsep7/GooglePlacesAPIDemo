@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/nehal/.android/build-cache/56d88fbba02ea09d51a493f0883c12dbf375539d/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v21/notification_action.xml"
+    }
+]

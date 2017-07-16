@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:12:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/nehal/.android/build-cache/40a5cc793263c470ad282d2821196d2884d3f825/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:12:22-64
+uses-feature#0x00020000
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:13:5-15:34
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/nehal/.android/build-cache/40a5cc793263c470ad282d2821196d2884d3f825/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:14:9-41
+	android:required
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:15:9-32
+application
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:17:5-49:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/nehal/.android/build-cache/f9e6489b82e7587cae8ca09564fb9c2aa6d8d83f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/nehal/.android/build-cache/5aea56847e4355b768d91c87e90bc683f77de4dd/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/nehal/.android/build-cache/56d88fbba02ea09d51a493f0883c12dbf375539d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/nehal/.android/build-cache/40a5cc793263c470ad282d2821196d2884d3f825/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/nehal/.android/build-cache/ea1aec93119871a2df534e1944305630eadaef87/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/nehal/.android/build-cache/d07a31e31c444e70d8734fb6c05cb6b3b5dc73c7/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/nehal/.android/build-cache/2eb0185a51cc68dd502e70b380e5fa87260ed9f3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/nehal/.android/build-cache/cda90d85ad424afcc4771dbc9682e727a517c762/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/nehal/.android/build-cache/5083bf47178db34e103e1890765083bbe15c4dd8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nehal/.android/build-cache/e0144316cb7221e304608c72b3b77a29f511e541/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nehal/.android/build-cache/1501f07e6a93d84d73e65dcbecd4ec56ca661db6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nehal/.android/build-cache/829566d1c333f79061d40939dddb4c710c7b95c3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nehal/.android/build-cache/2eb5f13035fbd7f0914a2fd6919f92827d848bfa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/nehal/.android/build-cache/a48c120d2875d888b02964a6e25c17e3fcc934ed/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:22:9-35
+	android:roundIcon
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:21:9-54
+	android:allowBackup
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:23:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:33:9-35:55
+	android:value
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:34:13-58
+meta-data#com.google.android.gms.version
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/nehal/.android/build-cache/cda90d85ad424afcc4771dbc9682e727a517c762/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:37:13-58
+activity#com.example.nehal.googleplacesapidemo.MapsActivity
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:41:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/nehal/.android/build-cache/f9e6489b82e7587cae8ca09564fb9c2aa6d8d83f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/nehal/.android/build-cache/5aea56847e4355b768d91c87e90bc683f77de4dd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.4] /home/nehal/.android/build-cache/56d88fbba02ea09d51a493f0883c12dbf375539d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/nehal/.android/build-cache/40a5cc793263c470ad282d2821196d2884d3f825/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.4] /home/nehal/.android/build-cache/ea1aec93119871a2df534e1944305630eadaef87/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/nehal/.android/build-cache/d07a31e31c444e70d8734fb6c05cb6b3b5dc73c7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/nehal/.android/build-cache/2eb0185a51cc68dd502e70b380e5fa87260ed9f3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/nehal/.android/build-cache/cda90d85ad424afcc4771dbc9682e727a517c762/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/nehal/.android/build-cache/5083bf47178db34e103e1890765083bbe15c4dd8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nehal/.android/build-cache/e0144316cb7221e304608c72b3b77a29f511e541/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nehal/.android/build-cache/1501f07e6a93d84d73e65dcbecd4ec56ca661db6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nehal/.android/build-cache/829566d1c333f79061d40939dddb4c710c7b95c3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nehal/.android/build-cache/2eb5f13035fbd7f0914a2fd6919f92827d848bfa/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/nehal/.android/build-cache/a48c120d2875d888b02964a6e25c17e3fcc934ed/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/nehal/.android/build-cache/f9e6489b82e7587cae8ca09564fb9c2aa6d8d83f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/nehal/.android/build-cache/5aea56847e4355b768d91c87e90bc683f77de4dd/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/nehal/.android/build-cache/5083bf47178db34e103e1890765083bbe15c4dd8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/nehal/.android/build-cache/e0144316cb7221e304608c72b3b77a29f511e541/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/nehal/.android/build-cache/1501f07e6a93d84d73e65dcbecd4ec56ca661db6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/nehal/.android/build-cache/829566d1c333f79061d40939dddb4c710c7b95c3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/nehal/.android/build-cache/2eb5f13035fbd7f0914a2fd6919f92827d848bfa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/nehal/.android/build-cache/a48c120d2875d888b02964a6e25c17e3fcc934ed/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/nehal/.android/build-cache/40a5cc793263c470ad282d2821196d2884d3f825/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/nehal/.android/build-cache/40a5cc793263c470ad282d2821196d2884d3f825/output/AndroidManifest.xml:19:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/nehal/.android/build-cache/d07a31e31c444e70d8734fb6c05cb6b3b5dc73c7/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/nehal/.android/build-cache/d07a31e31c444e70d8734fb6c05cb6b3b5dc73c7/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/nehal/.android/build-cache/d07a31e31c444e70d8734fb6c05cb6b3b5dc73c7/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/nehal/.android/build-cache/d07a31e31c444e70d8734fb6c05cb6b3b5dc73c7/output/AndroidManifest.xml:19:19-85

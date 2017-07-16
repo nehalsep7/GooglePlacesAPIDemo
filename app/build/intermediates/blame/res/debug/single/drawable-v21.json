@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

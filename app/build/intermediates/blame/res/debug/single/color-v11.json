@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

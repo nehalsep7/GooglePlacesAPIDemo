@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/nehal/AndroidStudioProjects/GooglePlacesAPIDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/nehal/.android/build-cache/e0ad9269c9cfa7a6651df48e60eadae8be174dd8/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]
